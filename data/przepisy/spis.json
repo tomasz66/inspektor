@@ -1,0 +1,134 @@
+[
+ {
+  "eli": "DU/1991/351",
+  "grupa": "Podstawowe",
+  "nazwa": "Ustawa o ochronie przeciwpożarowej",
+  "jednostek": 95
+ },
+ {
+  "eli": "DU/2010/719",
+  "grupa": "Podstawowe",
+  "nazwa": "Rozporządzenie o ochronie ppoż. budynków (2010)",
+  "jednostek": 49
+ },
+ {
+  "eli": "DU/2009/1030",
+  "grupa": "Podstawowe",
+  "nazwa": "Woda do gaszenia i drogi pożarowe (2009)",
+  "jednostek": 19
+ },
+ {
+  "eli": "DU/2002/690",
+  "grupa": "Budynki",
+  "nazwa": "Warunki techniczne budynków (WT 2002)",
+  "jednostek": 341
+ },
+ {
+  "eli": "DU/2023/1563",
+  "grupa": "Budynki",
+  "nazwa": "Uzgadnianie projektów pod względem ppoż. (2023)",
+  "jednostek": 11
+ },
+ {
+  "eli": "DU/1994/414",
+  "grupa": "Budynki",
+  "nazwa": "Prawo budowlane",
+  "jednostek": 233
+ },
+ {
+  "eli": "DU/1991/400",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Ustawa o Państwowej Straży Pożarnej",
+  "jednostek": 272
+ },
+ {
+  "eli": "DU/2005/1934",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Czynności kontrolno-rozpoznawcze PSP (2005)",
+  "jednostek": 16
+ },
+ {
+  "eli": "DU/2026/872",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Krajowy system ratowniczo-gaśniczy (2026)",
+  "jednostek": 58
+ },
+ {
+  "eli": "DU/2015/1964",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Szkolenia inspektorów ochrony ppoż. (2015)",
+  "jednostek": 7
+ },
+ {
+  "eli": "DU/2007/1002",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Wyroby wymagające dopuszczenia (CNBOP)",
+  "jednostek": 20
+ },
+ {
+  "eli": "DU/2024/1907",
+  "grupa": "Organizacja i kontrole",
+  "nazwa": "Ochrona ludności i obrona cywilna",
+  "jednostek": 216
+ },
+ {
+  "eli": "DU/1971/114",
+  "grupa": "Odpowiedzialność",
+  "nazwa": "Kodeks wykroczeń (art. 82)",
+  "jednostek": 208
+ },
+ {
+  "eli": "DU/2001/1148",
+  "grupa": "Odpowiedzialność",
+  "nazwa": "Kodeks postępowania w sprawach o wykroczenia (mandaty)",
+  "jednostek": 133
+ },
+ {
+  "eli": "DU/1997/553",
+  "grupa": "Odpowiedzialność",
+  "nazwa": "Kodeks karny",
+  "jednostek": 461
+ },
+ {
+  "eli": "DU/2001/627",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Prawo ochrony środowiska (poważne awarie)",
+  "jednostek": 554
+ },
+ {
+  "eli": "DU/2016/138",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Progi substancji - zakłady ZZR i ZDR (2016)",
+  "jednostek": 2
+ },
+ {
+  "eli": "DU/2010/931",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Atmosfera wybuchowa w miejscu pracy (ATEX 2010)",
+  "jednostek": 19
+ },
+ {
+  "eli": "DU/2016/817",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Urządzenia do stref zagrożonych wybuchem (2016)",
+  "jednostek": 9
+ },
+ {
+  "eli": "DU/2023/1707",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Bazy i stacje paliw, gaz płynny, rurociągi (2023)",
+  "jednostek": 180
+ },
+ {
+  "eli": "DU/2019/1316",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Stacje ładowania pojazdów elektrycznych (2019)",
+  "jednostek": 25
+ },
+ {
+  "eli": "DU/2020/296",
+  "grupa": "Zagrożenia szczególne",
+  "nazwa": "Ochrona ppoż. miejsc gospodarowania odpadami (2020)",
+  "jednostek": 48
+ }
+]

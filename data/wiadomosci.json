@@ -1,0 +1,1419 @@
+{
+ "aktualizacja": "2026-11-19",
+ "wydarzenia": [
+  {
+   "id": "2026-11-18-bielsko-czad",
+   "data": "2026-11-18",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "ZATRUCIE CZADEM",
+   "tytul": "25-latka zmarła w łazience. Czad był w mieszkaniu mimo wietrzenia",
+   "zajawka": "Strażacy zmierzyli 100 ppm tlenku węgla już po przewietrzeniu. To czwarta taka ofiara w tym roku w rejonie jednej komendy.",
+   "tresc": [
+    "Bielsko-Biała, ok. 4:00 rano. 25-letnią kobietę znaleziono nieprzytomną w łazience. Zespół ratownictwa medycznego stwierdził zgon.",
+    "Strażacy sprawdzili mieszkanie detektorami wielogazowymi i wykazali 100 ppm tlenku węgla - mimo że wcześniej było wietrzone. Prawdopodobna przyczyna: wada urządzenia grzewczego.",
+    "Według strażaków to czwarta ofiara śmiertelna zatrucia czadem w 2026 roku w rejonie działania KM PSP Bielsko-Biała."
+   ],
+   "wniosek": "Wietrzenie nie usuwa problemu, gdy urządzenie dalej produkuje tlenek węgla. Mała łazienka z piecykiem to miejsce, w którym stężenie rośnie najszybciej.",
+   "praktyka": "Przy każdym wezwaniu „źle się poczuł w łazience” - pomiar detektorem od wejścia, zanim zespół zdejmie maski. Mieszkańcom: czujka czadu i coroczny przegląd pieca.",
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/akcje/martwa-kobieta-w-lazience-strazacy-apeluja/"
+    ]
+   ],
+   "tematy": [
+    "czad",
+    "zatrucia",
+    "sezon grzewczy"
+   ],
+   "powiazane": [
+    "Tlenek węgla (czad)",
+    "Kominy i kotłownie",
+    "Czujki i SSP"
+   ]
+  },
+  {
+   "id": "2026-11-18-nipv-uhd",
+   "data": "2026-11-18",
+   "kraj": "Holandia",
+   "etykieta": "BADANIE",
+   "naglowek": "BATERIE",
+   "tytul": "Holendrzy przetestowali gaszenie baterii elektrycznej ciężarówki „od środka”",
+   "zajawka": "System ultra wysokiego ciśnienia przecina obudowę i gasi samą baterię. Autorzy piszą o pierwszym takim badaniu na świecie.",
+   "tresc": [
+    "Konsorcjum BITET (straż przemysłowa Tata Steel, regiony bezpieczeństwa Utrecht i Haaglanden, instytut NIPV) podpaliło baterię elektrycznej ciężarówki razem z ładunkiem.",
+    "Najpierw dwa samochody gaśnicze opanowały pożar pojazdu. Potem zespół z systemem UHD (ultra wysokie ciśnienie, cięcie i gaszenie) zajął się samą baterią w stanie niekontrolowanego wzrostu temperatury.",
+    "Wynik: metoda działa jako dodatkowa możliwość obok długiego chłodzenia albo pozwolenia, by bateria się wypaliła. Ograniczenie: bateria musi być dostępna - pod kabiną metoda sprawdza się słabiej."
+   ],
+   "wniosek": "Przy ciężkich pojazdach elektrycznych pojawia się trzecia droga poza długim chłodzeniem i czekaniem.",
+   "praktyka": "Zespół UHD osłaniany prądami niskiego ciśnienia (inne baterie, butle). Warto znać kartę działań przed pierwszym takim zdarzeniem.",
+   "analiza": [
+    "Pełny raport (NL, PDF)",
+    "https://nipv.nl/wp-content/uploads/2026/11/20261118-NIPV-Inzet-van-UHD-blussystemen-bij-branden-in-batterijpakketten-van-elektrische-vrachtwagens.pdf"
+   ],
+   "zrodla": [
+    [
+     "NIPV",
+     "https://nipv.nl/nieuws/uhd-blussysteem-geeft-brandweer-aanvullend-handelingsperspectief-bij-branden-met-elektrische-trucks/"
+    ],
+    [
+     "Karta działań (NL, PDF)",
+     "https://nipv.nl/wp-content/uploads/2026/11/20261118-NIPV-handelingsperspectief-inzet-uhd-blussysteem-bij-brand-in-batterijpakket-van-een-elektrische-vrachtwagen.pdf"
+    ]
+   ],
+   "tematy": [
+    "baterie",
+    "pojazdy elektryczne",
+    "badania"
+   ],
+   "powiazane": [
+    "Akumulatory i baterie"
+   ]
+  },
+  {
+   "id": "2026-11-16-buffalo-mayday",
+   "data": "2026-11-16",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "MAYDAY",
+   "tytul": "Stracili wodę w natarciu. Kilka sekund później ogień uwięził strażaków",
+   "zajawka": "Sześciu strażaków rannych, uratowana 11-latka. Strażak w MAYDAY nie wiedział, po której stronie budynku jest.",
+   "tresc": [
+    "Buffalo (Nowy Jork), pożar domu, ludzie skakali z okien. Rota weszła na piętro. Linia na chwilę straciła wodę - według komendanta ogień uwięził strażaków w ciągu kilku sekund.",
+    "Ogłoszono MAYDAY. Uwięziony strażak meldował, że jest przy otwartym oknie, ale nie wiedział, po której stronie budynku.",
+    "Wszystkich wyprowadzono, uratowano 11-letnią dziewczynkę. Sześciu strażaków odniosło obrażenia (oparzenia, oczy, kręgosłup, dym) - wszyscy wyszli już ze szpitala."
+   ],
+   "wniosek": "Utrata wody w natarciu to zagrożenie życia, nie usterka. Strażak w MAYDAY musi umieć powiedzieć, gdzie jest.",
+   "praktyka": "Ćwicz meldunek MAYDAY z położeniem: piętro, strona budynku, przy czym jestem. Zapamiętaj stronę wejścia. Zabezpiecz linię zasilającą.",
+   "zrodla": [
+    [
+     "Firefighter Close Calls",
+     "https://www.firefighterclosecalls.com/six-buffalo-firefighters-injured-in-mayday-at-fire-with-rescue-of-child-new-york/"
+    ],
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/mayday-three-firefighters-among-six-injured-in-buffalo-ny-fire/"
+    ]
+   ],
+   "tematy": [
+    "MAYDAY",
+    "bezpieczeństwo strażaka",
+    "woda"
+   ],
+   "powiazane": [
+    "Woda do gaszenia"
+   ]
+  },
+  {
+   "id": "2026-11-19-wedel-sufit",
+   "data": "2026-11-19",
+   "kraj": "Niemcy",
+   "etykieta": "MEDIA",
+   "naglowek": "UKRYTY POŻAR",
+   "tytul": "Ogień schował się nad sufitem podwieszanym. Znalazł go dron",
+   "zajawka": "Strażacy w aparatach zdejmowali płyty sufitu od środka. Kamera termowizyjna z powietrza wskazała, gdzie szukać.",
+   "tresc": [
+    "Wedel (Szlezwik-Holsztyn), pusta hala 1800 m² w trakcie rozbiórki. Ogień przeszedł z przyczepy kempingowej na dach.",
+    "Zarzewia ukryły się nad sufitem podwieszanym - z zewnątrz nie dało się do nich dotrzeć. Dron z kamerą termowizyjną wskazał gorące miejsca, a strażacy zdejmowali sufit punktowo.",
+    "Ok. 90 osób, akcja od 3:14 do ok. 6:00, dach uratowany, nikt nie został ranny."
+   ],
+   "wniosek": "Przestrzeń nad sufitem podwieszanym to „drugie pomieszczenie”, którego nie widać z dołu.",
+   "praktyka": "Przy dogaszaniu zawsze kontrola termowizją przestrzeni nad sufitem i w ścianach. Dron pokazuje dach bez wchodzenia na osłabioną konstrukcję.",
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/grossbrand-in-lagerhalle-glutnester-unter-abgehaengter-decke-145963"
+    ]
+   ],
+   "tematy": [
+    "ukryty pożar",
+    "termowizja",
+    "drony"
+   ],
+   "powiazane": [
+    "Oddymianie i drzwi ppoż.",
+    "Spalanie i pożar"
+   ]
+  },
+  {
+   "id": "2026-11-19-grand-canyon",
+   "data": "2026-11-19",
+   "kraj": "USA",
+   "etykieta": "RAPORT",
+   "naglowek": "RAPORT",
+   "tytul": "Zabytkowy hotel w Wielkim Kanionie spłonął, bo zawiodło dowodzenie",
+   "zajawka": "Federalny raport: „systemy istniały, ale ich nie stosowano”. Decyzji nie sprawdzono, gdy rosło ryzyko.",
+   "tresc": [
+    "Pożar Dragon Bravo (2025) w Parku Narodowym Wielkiego Kanionu najpierw postanowiono tylko „utrzymywać w granicach” zamiast gasić. Decyzję potwierdzano bez ponownej oceny mimo rosnącego zagrożenia.",
+    "Ogień przekroczył wyznaczoną granicę i spalił zabudowę North Rim, w tym historyczny Grand Canyon Lodge. Zgody na ciężki sprzęt i zrzuty środków gaśniczych przyszły z opóźnieniem.",
+    "Raport wskazuje 5 głównych ustaleń, m.in. kwalifikacje i obecność dowódców nieadekwatne do zdarzenia oraz niepełne włączenie partnerów w decyzje."
+   ],
+   "wniosek": "Decyzja raz podjęta musi być sprawdzana, gdy zmieniają się warunki.",
+   "praktyka": "Przy długich akcjach ustal z góry, co zmusza do zmiany taktyki (wiatr, tempo, odległość od zabudowy) - i trzymaj się tego.",
+   "zrodla": [
+    [
+     "Wildfire Today",
+     "https://wildfiretoday.com/devastating-grand-canyon-wildfire-worsened-by-leadership-issues-new-report/"
+    ],
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/wildland-firefighting/federal-review-faults-leadership-failures-in-grand-canyon-fire/"
+    ]
+   ],
+   "tematy": [
+    "dowodzenie",
+    "pożary lasów",
+    "raporty"
+   ],
+   "powiazane": [
+    "Lasy i żniwa"
+   ]
+  },
+  {
+   "id": "2026-11-12-knowles",
+   "data": "2026-11-12",
+   "kraj": "USA",
+   "etykieta": "RAPORT",
+   "naglowek": "RAPORT",
+   "tytul": "9 sekund na decyzję. Raport o śmierci czterech strażaków w Kolorado",
+   "zajawka": "Duży pożar przeszedł prawie 12 km w niecałe 3 godziny i okrążył załogę. Zawiodła łączność i wspólny obraz sytuacji, nie sprzęt.",
+   "tresc": [
+    "27.06.2026 pięcioosobowa załoga śmigłowcowa gasiła dwa bardzo małe pożary w kanionach zachodniego Kolorado. Plan odwrotu: śmigłowiec.",
+    "Inny, duży pożar, zasłonięty dymem i terenem, zbliżał się niezauważony. Między komunikatem, że śmigłowiec nie wyląduje, a informacją o rozkładaniu namiotów ratunkowych minęło 9 sekund. Zginęło 4 strażaków, jedna osoba przeżyła.",
+    "Raport (19 ustaleń) wskazuje m.in.: starą sieć radiową, przeciążonych dyspozytorów, brak wspólnej mapy sił, lukę w nadzorze z powietrza i radiotelefony skanujące zbyt wiele kanałów."
+   ],
+   "wniosek": "Tragedie to zwykle suma kilku znanych, tolerowanych problemów - nie jeden błąd.",
+   "praktyka": "Droga odwrotu zawsze dwiema metodami. Nie widzisz czoła pożaru przez dym - to sygnał alarmowy. Skanowanie w radiotelefonie: raport zaleca najwyżej 16 kanałów.",
+   "analiza": [
+    "Pełny raport (ang., PDF)",
+    "https://lessonslearned-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2026-11/Knowles%20Fire%20Entrapment%20Serious%20Accident%20Investigation%20Report.pdf?VersionId=qKxzDERYoNOlPaKWWz58iE8TSaxpJ6qS"
+   ],
+   "zrodla": [
+    [
+     "Departament Spraw Wewnętrznych USA",
+     "https://www.doi.gov/wildlandfireservice/interior-releases-findings-investigation-firefighter-fatalities-and-injury-0"
+    ]
+   ],
+   "tematy": [
+    "dowodzenie",
+    "łączność",
+    "pożary lasów",
+    "raporty",
+    "bezpieczeństwo strażaka"
+   ],
+   "powiazane": [
+    "Lasy i żniwa"
+   ]
+  },
+  {
+   "id": "2026-11-16-phuket",
+   "data": "2026-11-16",
+   "kraj": "Tajlandia",
+   "etykieta": "MEDIA",
+   "naglowek": "POŻAR BUDYNKU",
+   "tytul": "11 ofiar w Phuket. Ogień był na parterze, ludzie ginęli piętra wyżej",
+   "zajawka": "Prawdopodobnie wybuchł transformator obok wypożyczalni motocykli z paliwem. Ocalała: „nie dało się znaleźć schodów”.",
+   "tresc": [
+    "Patong, budynek kilkukondygnacyjny z wypożyczalnią motocykli na parterze. Według śledczych prawdopodobnie wybuchł transformator, a zgromadzone paliwo i oleje przyspieszyły pożar.",
+    "Ofiary znaleziono na 3., 4. i 5. piętrze. Ponad 30 osób rannych, głównie zatrucia dymem. Jedna osoba uciekła przez dach na sąsiedni budynek."
+   ],
+   "wniosek": "Ogień na dole, ofiary na górze - zabija dym. Jedyna klatka schodowa bez drzwi działa jak komin.",
+   "praktyka": "Dla inspektora: źródło zapłonu przy materiałach palnych, paliwo pod częścią noclegową i otwarta klatka to trzy błędy naraz.",
+   "zrodla": [
+    [
+     "Thai PBS World",
+     "https://thaipbsworld.com/around-thailand/572806"
+    ]
+   ],
+   "tematy": [
+    "ewakuacja",
+    "dym",
+    "transformator"
+   ],
+   "powiazane": [
+    "Ewakuacja",
+    "Elektryka i PWP",
+    "Benzyna i ciecze palne"
+   ]
+  },
+  {
+   "id": "2026-11-14-grecja-zawalenie",
+   "data": "2026-11-14",
+   "kraj": "Grecja",
+   "etykieta": "MEDIA",
+   "naglowek": "ŚMIERĆ STRAŻAKÓW",
+   "tytul": "Podłoga pustostanu zapadła się pod strażakami. Dwóch nie żyje",
+   "zajawka": "W zachodniej Attyce strażacy spadli do piwnicy opuszczonego budynku i zostali przysypani gruzem.",
+   "tresc": [
+    "Zefyri, zachodnia Attyka. Ok. 20 strażaków gasiło pożar opuszczonego budynku. Dwóch było w środku, gdy część budynku się zawaliła - podłoga ustąpiła i spadli do piwnicy.",
+    "Obaj zginęli, trzeci strażak został ranny. Przyczynę pożaru bada wydział dochodzeń."
+   ],
+   "wniosek": "W pustostanie zwykle nie ma kogo ratować, a konstrukcja jest nieznana i osłabiona. Ten sam tydzień: dwóch rannych strażaków w opuszczonej hali w Lęborku.",
+   "praktyka": "Pustostan bez potwierdzonych osób w środku - działania z zewnątrz, strefa zawalenia, obserwator konstrukcji.",
+   "zrodla": [
+    [
+     "Firefighter Close Calls",
+     "https://www.firefighterclosecalls.com/two-firefighters-killed-in-abandoned-fire-building-collapse-greece/"
+    ],
+    [
+     "Lębork - Trybuna Polska",
+     "https://trybunapolska.pl/kraj/lebork-dwoch-strazakow-rannych-podczas-pozaru-hali"
+    ]
+   ],
+   "tematy": [
+    "pustostany",
+    "zawalenie",
+    "bezpieczeństwo strażaka"
+   ],
+   "powiazane": [
+    "Materiały budowlane"
+   ]
+  },
+  {
+   "id": "2026-11-19-garaz-remizy",
+   "data": "2026-11-19",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "ZASTAWIONA REMIZA",
+   "tytul": "Auto zastawiło bramę remizy. Łódź ratownicza nie mogła wyjechać do tonącego",
+   "zajawka": "Kierowca poszedł na mszę, strażacy sami przesuwali samochód. Gmina Sękowa zapowiada zdecydowane działania.",
+   "tresc": [
+    "Zdarzenie z 31.08.2025, przypomniane przy apelu gminy Sękowa. Magnuszewo (Mazowsze): wezwanie do tonącego mężczyzny, a przed bramą garażu z łodzią stał zaparkowany samochód.",
+    "Strażacy musieli go przesunąć. 35-latka nie udało się uratować. Policja skierowała wniosek o ukaranie za nieprawidłowy postój. Autor zaznacza, że nie da się przesądzić, czy opóźnienie zdecydowało o śmierci."
+   ],
+   "wniosek": "Zastawiona brama remizy to realne ryzyko, nie drobne utrudnienie.",
+   "praktyka": "Oznakowanie i linie przed bramą, rozmowa z parafią i gminą przed mszami i festynami, numer telefonu na bramie.",
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/wiadomosci/garaz-strazakow-zablokowany-nie-mogli-wyjechac-poszkodowany-zmarl/"
+    ]
+   ],
+   "tematy": [
+    "OSP",
+    "dojazd"
+   ],
+   "powiazane": [
+    "Drogi pożarowe"
+   ]
+  }
+ ],
+ "faktmit": [
+  {
+   "id": "gasnice-baterie",
+   "twierdzenie": "„Przez baterie litowo-jonowe gaśnice mają się zmienić - nawet wygląd i kolor”",
+   "werdykt": "CZĘŚCIOWO PRAWDZIWE",
+   "tresc": [
+    "Co jest prawdą: w styczniu 2026 r. wyszła nowa norma ISO 3941:2026 (klasyfikacja pożarów). Dodała nową grupę pożarów L - pożary ogniw i baterii litowo-jonowych bez metalicznego litu (lit metaliczny zostaje w grupie D).",
+    "W Europie (także w Polsce) grupy pożarów wyznacza norma EN 2 (PN-EN 2). Jej aktualizacja ma wprowadzić grupę L zgodnie z ISO, ale według dostępnych źródeł jeszcze nie została opublikowana.",
+    "Czego nie ma: grupa L to na razie tylko nazwa rodzaju pożaru. Nie ma jeszcze europejskiej metody badania gaśnic do grupy L (w normie gaśnic EN 3), więc żadna gaśnica nie ma dziś „oficjalnej” oceny L według EN 3. Gaśnice reklamowane „do baterii” powołują się zwykle na inne testy, np. holenderski NTA 8133.",
+    "Kolor się nie zmienia: korpus gaśnicy w Europie jest czerwony (PN-EN 3-7), w innym kolorze może być tylko małe pole z oznaczeniem środka. Osobno zmieniają się piany: UE ogranicza PFAS w pianach gaśniczych (gaśnice przenośne - wprowadzanie do obrotu do 23.10.2026, piany odporne na alkohol - do 23.04.2027)."
+   ],
+   "klientowi": "„Pojawiła się nowa grupa pożarów L - baterie litowo-jonowe - ale nowych przepisowych gaśnic jeszcze nie ma. Jeśli ktoś sprzedaje gaśnicę „do baterii”, poproś o wyniki badań, np. według NTA 8133.”",
+   "uwaga": "Do obserwowania: publikacja nowej PN-EN 2 z grupą L i ewentualna metoda badania gaśnic w EN 3.",
+   "zrodla": [
+    [
+     "ANPI (Belgia) - nowa klasa L",
+     "https://www.anpi.be/en/news/new-fire-class-l"
+    ],
+    [
+     "Lexology - ISO 3941 i klasa L",
+     "https://www.lexology.com/library/detail.aspx?g=0ee80c29-50e6-4c35-a0a4-066e13ecdf42"
+    ],
+    [
+     "Porządek.org.pl - klasa L po polsku",
+     "https://porzadek.org.pl/klasa-pozarowa-l-co-oznacza-nowa-norma-iso-3941-dla-strazakow-i-dlaczego-warto-pytac-o-wyniki-badan-gasnic-42910352.html"
+    ],
+    [
+     "Rozporządzenie UE 2025/1988 - PFAS",
+     "https://eur-lex.europa.eu/eli/reg/2025/1988/oj/eng"
+    ]
+   ]
+  },
+  {
+   "id": "czujki-30-06",
+   "twierdzenie": "„Od 30 czerwca 2026 każde mieszkanie musi mieć czujkę dymu”",
+   "werdykt": "FAŁSZYWE",
+   "tresc": [
+    "30.06.2026 to termin dla pomieszczeń z usługami hotelarskimi (także najem turystyczny) i czujek czadu w lokalach użytkowych.",
+    "Mieszkania użytkowane przed 23.12.2024 - obowiązek od 1.01.2030. Mieszkania oddane później - od razu."
+   ],
+   "klientowi": "„Jeśli wynajmujesz turystom - czujka jest obowiązkowa już teraz. Jeśli sam mieszkasz - masz czas do 2030, ale czujka kosztuje kilkadziesiąt złotych.”",
+   "zrodla": [
+    [
+     "Dz.U. 2024 poz. 1716",
+     "https://eli.gov.pl/eli/DU/2024/1716/ogl/pol/pdf"
+    ]
+   ]
+  }
+ ],
+ "przepisy": [
+  {
+   "status": "WAŻNE",
+   "tytul": "Warunki techniczne budynków (WT 2002) straciły moc - nowych jeszcze nie ma",
+   "tresc": "Rozporządzenie o warunkach technicznych budynków przestało obowiązywać 20.09.2026. Ustawa przewiduje 18-miesięczny okres przejściowy, w którym stosuje się dotychczasowe przepisy. Istniejące budynki ocenia się według przepisów, według których je zaprojektowano. Obserwuj ogłoszenie nowych WT.",
+   "zrodla": [
+    [
+     "ISAP - WT 2002",
+     "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020750690"
+    ],
+    [
+     "Lubelska Izba Inżynierów Budownictwa",
+     "https://lub.piib.org.pl/warunki-techniczne-po-20-wrzesnia-2026-r-wazne-informacje-dla-inwestorow-i-projektantow/"
+    ]
+   ]
+  },
+  {
+   "status": "NORMY - W TOKU",
+   "tytul": "Nowa grupa pożarów L - baterie litowo-jonowe",
+   "tresc": "ISO 3941:2026 (styczeń 2026) dodała grupę L. W Polsce obowiązuje PN-EN 2 - jej aktualizacja z grupą L jest zapowiedziana, ale jeszcze niewydana. Nie ma jeszcze metody badania gaśnic dla grupy L w EN 3.",
+   "zrodla": [
+    [
+     "ANPI - nowa klasa L",
+     "https://www.anpi.be/en/news/new-fire-class-l"
+    ]
+   ]
+  },
+  {
+   "status": "TERMIN 31.12.2026",
+   "tytul": "Oznakowanie punktów schronienia",
+   "tresc": "Punkty schronienia zidentyfikowane przed 30.09.2026 trzeba oznakować najpóźniej do 31.12.2026: niebieski trójkąt obrony cywilnej na pomarańczowym tle (tabliczka 200 × 200 mm na budynku i naklejki 80 × 80 mm na drzwiach) oraz zielona tabliczka „PUNKT SCHRONIENIA” pod tabliczką na budynku.",
+   "zrodla": [
+    [
+     "Dz.U. 2026 poz. 1276",
+     "https://eli.gov.pl/eli/DU/2026/1276/ogl/pol/pdf"
+    ]
+   ]
+  },
+  {
+   "status": "UE - TERMINY",
+   "tytul": "PFAS w pianach gaśniczych",
+   "tresc": "Rozporządzenie UE 2025/1988 ogranicza PFAS w pianach gaśniczych. Gaśnice przenośne z pianą z PFAS - wprowadzanie do obrotu do 23.10.2026, piany odporne na alkohol - do 23.04.2027. Dalsze terminy dla innych zastosowań biegną do 2030 r.",
+   "zrodla": [
+    [
+     "EUR-Lex",
+     "https://eur-lex.europa.eu/eli/reg/2025/1988/oj/eng"
+    ]
+   ]
+  },
+  {
+   "status": "OBOWIĄZUJE",
+   "tytul": "Czujki dymu i czadu - terminy",
+   "tresc": "Usługi hotelarskie i lokale użytkowe z piecami - od 30.06.2026 (już obowiązuje). Mieszkania użytkowane przed 23.12.2024 - od 1.01.2030.",
+   "zrodla": [
+    [
+     "Dz.U. 2024 poz. 1716",
+     "https://eli.gov.pl/eli/DU/2024/1716/ogl/pol/pdf"
+    ]
+   ]
+  }
+ ],
+ "nowosci": [
+  {
+   "tytul": "Robot gaśniczy w zwykłej miejskiej straży",
+   "tresc": "Jednostka w Glinde (Niemcy) dostała obok dwóch nowych wozów robota gaśniczego. Roboty schodzą z dużych miast do mniejszych jednostek.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/ausdenwehren/zwei-neue-hlf-und-ein-loeschroboter-fuer-glinde-145922"
+    ]
+   ]
+  },
+  {
+   "tytul": "Rotator 3000 - polski ciężki dźwig ratowniczy na Jelczu",
+   "tresc": "SZCZĘŚNIAK i PONAR Wadowice pokazali go na ćwiczeniach w CS PSP w Częstochowie.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/rotator-3000-polska-konstrukcja-pod-podwozie-jelcz-szczesniak-i-ponar-wadowice-na-cwiczeniach-w-cs-psp/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Obraz z drona na telefonie każdego ratownika",
+   "tresc": "Aplikacja BRINC pokazuje na żywo obraz z drona i ruch dronów w akcji - dokładnie to, czego zabrakło w Knowles Fire: wspólnego obrazu sytuacji.",
+   "etykieta": "PRODUCENT",
+   "zrodla": [
+    [
+     "Fire & Safety Journal Americas",
+     "https://fireandsafetyjournalamericas.com/brinc-drones-app-first-responder/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Segregacja poszkodowanych w 10 sekund",
+   "tresc": "Brytyjski system Ten Seconds Triage: krwotoki, rany klatki piersiowej i drogi oddechowe - z zaopatrzeniem od razu przy segregacji.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/taktyka-dzialan-ratowniczych/ten-seconds-triage-system-segregacji-do-zdarzen-masowych/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Nowy system wspomagania decyzji PSP w 2027?",
+   "tresc": "Zapowiedź dużej zmiany w SWD PSP.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/wiadomosci/nowe-swd-juz-w-2027-roku-strazakow-czeka-prawdziwa-rewolucja/"
+    ]
+   ]
+  }
+ ],
+ "badania": [
+  {
+   "tytul": "Efekt rynny - czego nauczył pożar King's Cross",
+   "tresc": "W 1987 r. mały pożar pod drewnianymi schodami ruchomymi londyńskiego metra nagle wystrzelił kulą ognia do hali - zginęło 31 osób. Badania wykazały, że płomienie na pochyłej powierzchni (ok. 30°) kładą się wzdłuż niej i przyspieszają. Wniosek: pożar na schodach, rampie i pochyłym korytarzu rozwija się szybciej niż w poziomie.",
+   "etykieta": "WIEDZA",
+   "zrodla": [
+    [
+     "Firefighter Close Calls",
+     "https://www.firefighterclosecalls.com/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Raport o pożarach lasów 2025-2026",
+   "tresc": "Globalnie spłonęło mniej niż w przeciętnym roku, ale ekstremalne pożary uderzają tam, gdzie wcześniej prawie ich nie było.",
+   "etykieta": "RAPORT",
+   "zrodla": [
+    [
+     "Wildfire Today",
+     "https://wildfiretoday.com/annual-global-wildfire-report-urges-countries-to-cut-emissions-plan-for-future-severe-fire-years/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Trzy lata testów spalania aut elektrycznych",
+   "tresc": "UL FSRI wydał po testach w skali rzeczywistej kartę decyzji taktycznych dla strażaków przy pożarach EV.",
+   "etykieta": "BADANIE",
+   "zrodla": [
+    [
+     "Firehouse",
+     "https://www.firehouse.com/operations-training/news/55396753/new-fsri-study-details-what-firefighters-need-to-know-about-ev-fires"
+    ]
+   ]
+  },
+  {
+   "tytul": "Sztuczna inteligencja w straży - warsztaty NIST",
+   "tresc": "26.01.2027 amerykański NIST organizuje warsztaty o tym, jakie problemy straży może rozwiązać AI.",
+   "etykieta": "ZAPOWIEDŹ",
+   "zrodla": [
+    [
+     "NIST",
+     "https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service"
+    ]
+   ]
+  }
+ ],
+ "czywiesz": [
+  {
+   "tekst": "Zwykła piana nie ugasi alkoholu, acetonu ani wielu rozpuszczalników - te ciecze mieszają się z wodą i niszczą pianę. Do nich jest piana AR (odporna na alkohol), oznaczana np. AFFF-AR. W lakierni czy magazynie chemii zapytaj, czy gaśnice pianowe są w wersji AR.",
+   "zrodlo": ""
+  },
+  {
+   "tekst": "Tlenek węgla nie ma zapachu. Zapach spalin, który czujesz przy piecu, to inne gazy - czad może być w pomieszczeniu bez żadnego zapachu.",
+   "zrodlo": ""
+  },
+  {
+   "tekst": "Gdy nie wiadomo, ile osób będzie w pomieszczeniu, przepisy każą liczyć: hol i sala konferencyjna - 1 m² na osobę, sklep - 4 m², biuro - 5 m², archiwum i biblioteka - 7 m², magazyn - 30 m².",
+   "zrodlo": "§ 236 ust. 6 WT"
+  },
+  {
+   "tekst": "W jednym biegu schodów może być najwyżej 17 stopni, a w budynku opieki zdrowotnej - 14.",
+   "zrodlo": "§ 69 ust. 1 WT"
+  },
+  {
+   "tekst": "Z każdego miejsca w budynku do gaśnicy ma być najwyżej 30 m.",
+   "zrodlo": "§ 33 ust. 1 rozp. 2010"
+  },
+  {
+   "tekst": "W Phuket najwięcej ofiar było 3 piętra nad ogniskiem pożaru. Dym idzie do góry szybciej, niż człowiek schodzi w dół.",
+   "zrodlo": ""
+  },
+  {
+   "tekst": "Na balkonie, klatce schodowej i w piwnicy nie wolno trzymać materiałów niebezpiecznych pożarowo, a w piwnicy i na strychu - butli z gazem, nawet pustych.",
+   "zrodlo": "§ 4 ust. 1 pkt 13 rozp. 2010"
+  }
+ ],
+ "terminy": [
+  {
+   "data": "2026-12-31",
+   "tytul": "Oznakowanie punktów schronienia",
+   "opis": "Szkoły, urzędy i inne budynki wskazane jako punkty schronienia muszą mieć tabliczki: niebieski trójkąt na pomarańczowym tle i zieloną tabliczkę „PUNKT SCHRONIENIA”.",
+   "zrodla": [
+    [
+     "Dz.U. 2026 poz. 1276",
+     "https://eli.gov.pl/eli/DU/2026/1276/ogl/pol/pdf"
+    ]
+   ],
+   "wiecej": "Punkt schronienia to miejsce, w którym ludzie mogą przeczekać zagrożenie, np. piwnica szkoły czy urzędu. Listę punktów ustala się na podstawie ustawy o ochronie ludności i obronie cywilnej (art. 84a). Wzór oznakowania jest w załączniku 1a do rozporządzenia o ochronie ppoż. budynków. Na inspekcji: zapytaj, czy budynek jest na liście i czy ma tabliczki."
+  },
+  {
+   "data": "2027-01-26",
+   "tytul": "Warsztaty NIST: sztuczna inteligencja w straży",
+   "opis": "Amerykański instytut NIST zbiera ekspertów, żeby ustalić, w czym AI może realnie pomóc strażakom.",
+   "zrodla": [
+    [
+     "NIST",
+     "https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service"
+    ]
+   ],
+   "wiecej": "Warsztaty odbędą się w siedzibie NIST w Gaithersburgu (USA). Warto śledzić ich wnioski - mogą wyznaczyć kierunek, w którym pójdzie technika dla straży."
+  },
+  {
+   "data": "2027-04-23",
+   "tytul": "Koniec obrotu gaśnicami z pianą AR (odporną na alkohol) z PFAS",
+   "opis": "Po tej dacie gaśnic przenośnych z pianą odporną na alkohol z PFAS nie można wprowadzać do obrotu (zwykłe piany z PFAS - już od 23.10.2026).",
+   "zrodla": [
+    [
+     "Rozporządzenie UE 2025/1988",
+     "https://eur-lex.europa.eu/eli/reg/2025/1988/oj/eng"
+    ]
+   ],
+   "wiecej": "Piana AR (ang. alcohol resistant) to piana odporna na alkohol. Zwykła piana na alkoholu, acetonie czy rozpuszczalniku znika, bo te ciecze mieszają się z wodą i „zjadają” pianę. Piana AR ma dodatek, który tworzy na cieczy cienką błonę - piana leży na niej i gasi. Takie piany trudniej zastąpić wersją bez fluoru, dlatego UE dała na nie więcej czasu. PFAS to tzw. wieczne chemikalia - nie rozkładają się w środowisku. Dla właściciela obiektu: przy przeglądzie zapytaj serwis, jaki środek jest w gaśnicach pianowych."
+  },
+  {
+   "data": "2028-03-20",
+   "tytul": "Koniec okresu przejściowego po starych WT (ok.)",
+   "opis": "Ustawa daje 18 miesięcy od 20.09.2026 na stosowanie dotychczasowych warunków technicznych. Data orientacyjna - wyliczona, do potwierdzenia po ogłoszeniu nowych WT.",
+   "zrodla": [
+    [
+     "Lubelska Izba Inżynierów Budownictwa",
+     "https://lub.piib.org.pl/warunki-techniczne-po-20-wrzesnia-2026-r-wazne-informacje-dla-inwestorow-i-projektantow/"
+    ]
+   ],
+   "wiecej": "Do tej daty projekty mogą powstawać według dotychczasowych warunków technicznych, jeśli wniosek złożono w okresie przejściowym. Potem obowiązywać będą nowe WT - ich treści jeszcze nie znamy. Istniejące budynki nadal ocenia się według przepisów, według których je zaprojektowano."
+  },
+  {
+   "data": "2030-01-01",
+   "tytul": "Czujki dymu i czadu w zwykłych mieszkaniach",
+   "opis": "Od tego dnia czujka dymu w każdym mieszkaniu, a czujka czadu przy piecu z otwartą komorą - także w mieszkaniach sprzed grudnia 2024.",
+   "zrodla": [
+    [
+     "Dz.U. 2024 poz. 1716",
+     "https://eli.gov.pl/eli/DU/2024/1716/ogl/pol/pdf"
+    ]
+   ],
+   "wiecej": "Dotyczy mieszkań użytkowanych przed 23.12.2024 (nowsze mają obowiązek od razu). Czujka dymu: co najmniej jedna w mieszkaniu. Czujka czadu: w pomieszczeniu z piecem lub kotłem z otwartą komorą spalania - nie przy kuchence gazowej. Konserwacja według instrukcji producenta, bez obowiązkowych przeglądów serwisowych."
+  }
+ ],
+ "obserwuje": [
+  {
+   "tytul": "Nisko - dlaczego zginęło dwóch strażaków",
+   "stan": "Pożar magazynu 16.10.2026, roty nadały sygnał RATUNEK. Przyczyna i przebieg nie są jeszcze oficjalnie ustalone.",
+   "ostatnio": "2026-10-17",
+   "zrodla": [
+    [
+     "Polsat News",
+     "https://www.polsatnews.pl/wiadomosc/2026-10-17/strazacy-nadali-sygnal-ratunek-nowe-informacje-po-tragedii-w-nisku/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Nowe warunki techniczne budynków",
+   "stan": "Stare WT straciły moc 20.09.2026, nowych jeszcze nie ogłoszono. Gdy się pojawią, zmieni się sporo wymiarów i wymagań.",
+   "ostatnio": "2026-10-14",
+   "zrodla": [
+    [
+     "Lubelska Izba Inżynierów Budownictwa",
+     "https://lub.piib.org.pl/warunki-techniczne-po-20-wrzesnia-2026-r-wazne-informacje-dla-inwestorow-i-projektantow/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Polska norma z grupą pożarów L (baterie)",
+   "stan": "ISO 3941:2026 już ma grupę L. Europejska EN 2 (u nas PN-EN 2) ma ją przejąć - jeszcze niewydana.",
+   "ostatnio": "2026-11-19",
+   "zrodla": [
+    [
+     "ANPI",
+     "https://www.anpi.be/en/news/new-fire-class-l"
+    ]
+   ]
+  },
+  {
+   "tytul": "Phuket - oficjalna przyczyna pożaru",
+   "stan": "Wstępnie: wybuch transformatora przy magazynie paliwa. Czekamy na ustalenia śledczych.",
+   "ostatnio": "2026-11-16",
+   "zrodla": [
+    [
+     "Thai PBS World",
+     "https://thaipbsworld.com/around-thailand/572806"
+    ]
+   ]
+  },
+  {
+   "tytul": "Maredsous - wybuch butli na jarmarku",
+   "stan": "Prokuratura powołała biegłego. Ważne przed sezonem jarmarków w Polsce.",
+   "ostatnio": "2026-11-15",
+   "zrodla": [
+    [
+     "Brussels Times",
+     "https://www.brusselstimes.com/2407725/five-injured-following-christmas-market-fire-in-wallonia"
+    ]
+   ]
+  }
+ ],
+ "pytania": [
+  {
+   "p": "Ile tlenku węgla zmierzyli strażacy w Bielsku-Białej już po przewietrzeniu mieszkania?",
+   "o": "100 ppm. Wietrzenie nie pomaga, gdy piec dalej produkuje czad.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Czego dotyczy nowa grupa pożarów L?",
+   "o": "Pożarów ogniw i baterii litowo-jonowych (bez metalicznego litu - ten zostaje w grupie D).",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Dlaczego w Phuket ofiary były 3 piętra nad ogniskiem pożaru?",
+   "o": "Bo dym idzie klatką do góry szybciej, niż ludzie schodzą w dół. Otwarta klatka działa jak komin.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Ile kanałów w skanowaniu radiotelefonu zaleca raport z pożaru Knowles?",
+   "o": "Najwyżej 16. Ocalałe radio skanowało 53 - łatwo przegapić wywołanie.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Czym jest efekt rynny?",
+   "o": "Płomienie na pochyłej powierzchni (schody, rampa) kładą się wzdłuż niej i przyspieszają. Odkryty po pożarze King's Cross w 1987 r.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Ile m² na osobę przyjmuje się w sklepie, gdy nie wiadomo, ilu będzie ludzi?",
+   "o": "4 m² na osobę (biuro - 5, hol - 1, archiwum - 7, magazyn - 30).",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Do kiedy trzeba oznakować punkty schronienia?",
+   "o": "Do 31.12.2026.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Jak daleko najdalej może być do gaśnicy?",
+   "o": "30 m z każdego miejsca, w którym może być człowiek.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Ile czasu minęło w Knowles Fire od „śmigłowiec nie wyląduje” do rozkładania namiotów ratunkowych?",
+   "o": "9 sekund. Decyzja o odwrocie musi zapaść długo wcześniej.",
+   "data": "2026-11-19"
+  },
+  {
+   "p": "Co zrobić, gdy czujesz gaz w mieszkaniu?",
+   "o": "Nie dotykać włączników, nie dzwonić w środku, zakręcić kurek, otworzyć okna, wyjść i zadzwonić z zewnątrz.",
+   "data": "2026-11-19"
+  }
+ ],
+ "raporty": [
+  {
+   "tytul": "Knowles Fire - śmierć 4 strażaków (USA, 2026)",
+   "wnioski": [
+    "Tragedia to suma znanych problemów, nie jeden błąd.",
+    "Odwrót zawsze dwiema drogami.",
+    "Łączność i wspólny obraz sytuacji to bezpieczeństwo, nie logistyka."
+   ],
+   "link": "https://lessonslearned-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2026-11/Knowles%20Fire%20Entrapment%20Serious%20Accident%20Investigation%20Report.pdf?VersionId=qKxzDERYoNOlPaKWWz58iE8TSaxpJ6qS",
+   "wydawca": "US Forest Service i Wildland Fire Service"
+  },
+  {
+   "tytul": "Dragon Bravo - spalony hotel w Wielkim Kanionie (USA)",
+   "wnioski": [
+    "Decyzje trzeba sprawdzać, gdy rosną zagrożenia.",
+    "Systemy istniały, ale ich nie stosowano.",
+    "Zgody na sprzęt nie mogą czekać."
+   ],
+   "link": "https://wildfiretoday.com/devastating-grand-canyon-wildfire-worsened-by-leadership-issues-new-report/",
+   "wydawca": "federalny zespół przeglądowy (opis: Wildfire Today)"
+  },
+  {
+   "tytul": "Gaszenie baterii elektrycznych ciężarówek systemem UHD (NL, 2026)",
+   "wnioski": [
+    "UHD to trzecia droga obok chłodzenia i wypalenia.",
+    "Zespół UHD trzeba osłaniać.",
+    "Bateria pod kabiną - metoda słabsza."
+   ],
+   "link": "https://nipv.nl/wp-content/uploads/2026/11/20261118-NIPV-Inzet-van-UHD-blussystemen-bij-branden-in-batterijpakketten-van-elektrische-vrachtwagens.pdf",
+   "wydawca": "NIPV"
+  },
+  {
+   "tytul": "Pożary samochodów elektrycznych - 3 lata testów (USA)",
+   "wnioski": [
+    "Karta decyzji taktycznych gotowa do szkoleń.",
+    "Testy w skali rzeczywistej, nie w laboratorium.",
+    "Dobry materiał na ćwiczenia w JRG i OSP."
+   ],
+   "link": "https://www.firehouse.com/operations-training/news/55396753/new-fsri-study-details-what-firefighters-need-to-know-about-ev-fires",
+   "wydawca": "UL FSRI (opis: Firehouse)"
+  },
+  {
+   "tytul": "NIOSH - raporty o śmierci strażaków",
+   "wnioski": [
+    "Ponad 40 lat oficjalnych analiz z zaleceniami.",
+    "Każdy raport to gotowy przypadek na szkolenie.",
+    "Szukaj po rodzaju zdarzenia: zawalenia, MAYDAY, wypadki drogowe."
+   ],
+   "link": "https://www.cdc.gov/niosh/firefighters/",
+   "wydawca": "NIOSH (USA)"
+  }
+ ],
+ "wydarzenia_branzowe": [
+  {
+   "data": "2027-01-11",
+   "tytul": "Szkolenie inspektorów ochrony ppoż. - CNBOP-PIB",
+   "opis": "11.01-05.02.2027, online i stacjonarnie w Józefowie. Brak wolnych miejsc - kolejne terminy w terminarzu CNBOP.",
+   "link": "https://cnbop.pl/szkolenia/terminarz-zapisy/"
+  },
+  {
+   "data": "2027-01-26",
+   "tytul": "Warsztaty NIST: AI w straży pożarnej",
+   "opis": "Gaithersburg (USA).",
+   "link": "https://www.nist.gov/news-events/events/2027/01/super-intelligence-fire-service"
+  }
+ ],
+ "wydarzenia_gdzie_szukac": [
+  [
+   "Terminarz szkoleń CNBOP-PIB (także aktualizujące dla inspektorów)",
+   "https://cnbop.pl/szkolenia/terminarz-zapisy/"
+  ],
+  [
+   "Plan wydarzeń SITP",
+   "https://sitp.org.pl/"
+  ],
+  [
+   "Akademia Pożarnicza - konferencje",
+   "https://apoz.edu.pl/"
+  ]
+ ],
+ "historia": [
+  {
+   "d": "01-04",
+   "rok": 2019,
+   "tytul": "Koszalin - escape room",
+   "tekst": "Zginęło 5 nastolatek. Pokój zagadek bez drogi ucieczki i z ogrzewaczem gazowym. Po tragedii PSP skontrolowała escape roomy w całym kraju.",
+   "wiecej": "Pożar w escape roomie w Koszalinie – pożar, który miał miejsce 4 stycznia 2019 roku w escape roomie \"ToNiePokój\" w Koszalinie. W jego wyniku śmierć poniosło 5 osób, a jedna odniosła obrażenia.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_w_escape_roomie_w_Koszalinie",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "01-27",
+   "rok": 2013,
+   "tytul": "Klub Kiss, Santa Maria (Brazylia)",
+   "tekst": "242 ofiary. Fajerwerki na scenie zapaliły piankę wygłuszającą na suficie, a ludzie mieli praktycznie jedno wyjście.",
+   "wiecej": "Pożar w klubie nocnym w Santa Maria – pożar, który wybuchł 27 stycznia 2013 w klubie nocnym Kiss w mieście Santa Maria w Brazylii. W wyniku pożaru śmierć poniosły 242 osoby, a 116 osób zostało rannych.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_w_klubie_nocnym_w_Santa_Maria",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "01-28",
+   "rok": 2006,
+   "tytul": "Katowice - zawalenie hali MTK",
+   "tekst": "65 ofiar. Dach hali Międzynarodowych Targów Katowickich (w Chorzowie) runął pod śniegiem podczas wystawy gołębi. Jedna z największych akcji ratowniczych w Polsce.",
+   "wiecej": "Katastrofa budowlana na terenie Międzynarodowych Targów Katowickich – zawalenie się dachu hali Międzynarodowych Targów Katowickich (MTK) położonej w Chorzowie, przy granicy z Katowicami, które miało miejsce 28 stycznia 2006 roku podczas ogólnopolskiej wystawy gołębi pocztowych.",
+   "link": "https://pl.wikipedia.org/wiki/Katastrofa_budowlana_na_%C5%9Al%C4%85sku_(2006)",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "02-20",
+   "rok": 2003,
+   "tytul": "Klub The Station (USA)",
+   "tekst": "100 ofiar. Pirotechnika sceniczna i palna pianka na ścianach - pożar objął salę w kilka minut.",
+   "wiecej": "Pożar w klubie nocnym w West Warwick – pożar, który wybuchł 20 lutego 2003 roku w klubie nocnym The Station w mieście West Warwick w stanie Rhode Island, w Stanach Zjednoczonych. W wyniku tego wydarzenia śmierć poniosło 100 osób, a 230 zostało rannych. Pożar pozostaje najtragiczniejszym wypadkiem z udziałem fajerwerków w historii USA.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_w_klubie_nocnym_w_West_Warwick",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "03-24",
+   "rok": 1999,
+   "tytul": "Tunel pod Mont Blanc",
+   "tekst": "39 ofiar. Zapaliła się ciężarówka z margaryną i mąką. Po pożarze przebudowano zabezpieczenia długich tuneli w Europie.",
+   "wiecej": "Pożar w tunelu Mont Blanc – pożar, do którego doszło 24 marca 1999 roku w tunelu Mont Blanc na granicy francusko-włoskiej, w wyniku którego śmierć poniosło 39 osób, a kilkanaście zostało rannych. Po tym pożarze tunel był zamknięty przez kilka lat w celu jego remontu.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_w_tunelu_Mont_Blanc",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "04-11",
+   "rok": 1996,
+   "tytul": "Lotnisko w Düsseldorfie",
+   "tekst": "17 ofiar. Spawanie zapaliło izolację nad sufitem podwieszanym - pożar rozwijał się ukryty. Klasyczny przykład prac pożarowo niebezpiecznych.",
+   "wiecej": "11 kwietnia 1996 r. w terminalu lotniska w Düsseldorfie wybuchł pożar, w którym zginęło 17 osób, a rannych było od 62 do 88. To najgorszy pożar budynku lotniska komunalnego. Uznawany za podręcznikowy przykład pożaru polistyrenu. W akcji brało udział ok. 1000 strażaków - wtedy największa akcja w historii Nadrenii Północnej-Westfalii.",
+   "link": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Airport_fire",
+   "link_nazwa": "Wikipedia (ang.)"
+  },
+  {
+   "d": "04-15",
+   "rok": 2019,
+   "tytul": "Katedra Notre-Dame w Paryżu",
+   "tekst": "Dach i sygnaturka spłonęły w czasie trwającej renowacji. Przyczyny nigdy nie ustalono - prokuratura uznaje to za wypadek.",
+   "wiecej": "Pożar Katedry Notre-Dame w Paryżu – pożar, który wybuchł 15 kwietnia 2019 roku w Katedrze Notre-Dame w Paryżu. Płomienie objęły dach świątyni i znajdującą się na nim sygnaturkę. Później rozprzestrzeniły się na jedną z wież budowli. Dokładna przyczyna pożaru nigdy nie została ustalona; prokuratura w Paryżu uważa go obecnie za wypadek, wykluczając podpalenie i akt terrorystyczny.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_Katedry_Notre-Dame_w_Pary%C5%BCu",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "06-14",
+   "rok": 2017,
+   "tytul": "Grenfell Tower, Londyn",
+   "tekst": "72 ofiary. Ogień błyskawicznie poszedł po elewacji z paneli z palnym rdzeniem. Zmieniło to podejście do elewacji i ewakuacji wysokich budynków.",
+   "wiecej": "Pożar wieżowca Grenfell Tower w Londynie – pożar, który wybuchł 14 czerwca 2017 w Londynie, w dzielnicy Kensington. Pierwsze zgłoszenie o pożarze odebrano o godzinie 0:54 czasu brytyjskiego.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_wie%C5%BCowca_Grenfell_Tower_w_Londynie",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "06-18",
+   "rok": 2007,
+   "tytul": "Sofa Super Store, Charleston (USA)",
+   "tekst": "Zginęło 9 strażaków w pożarze sklepu meblowego. Szybkie rozgorzenie i wielkie obciążenie ogniowe tapicerki.",
+   "wiecej": "18 czerwca 2007 r. w Charleston (Karolina Południowa) w pożarze sklepu meblowego zginęło 9 strażaków - najwięcej w USA od 11 września 2001. Ogień zaczął się przy rampie załadunkowej, szybko objął salę sprzedaży i magazyn, doszło do zawalenia. Do tragedii przyczyniły się słabe zaopatrzenie w wodę i brak tryskaczy.",
+   "link": "https://en.wikipedia.org/wiki/Charleston_Sofa_Super_Store_fire",
+   "link_nazwa": "Wikipedia (ang.)"
+  },
+  {
+   "d": "07-06",
+   "rok": 2013,
+   "tytul": "Lac-Mégantic (Kanada)",
+   "tekst": "47 ofiar. Pozostawiony pociąg z ropą stoczył się do miasteczka i eksplodował.",
+   "wiecej": "Wypadek kolejowy w Lac-Mégantic – wypadek kolejowy, do którego doszło 6 lipca 2013 roku w kanadyjskiej miejscowości Lac-Mégantic.",
+   "link": "https://pl.wikipedia.org/wiki/Wypadek_kolejowy_w_Lac-M%C3%A9gantic",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "08-04",
+   "rok": 2020,
+   "tytul": "Wybuch w porcie w Bejrucie",
+   "tekst": "Ponad 200 ofiar. Wybuchła saletra amonowa składowana latami w porcie. Lekcja o magazynowaniu materiałów niebezpiecznych.",
+   "wiecej": "Eksplozja w Bejrucie – wybuch, do którego doszło 4 sierpnia 2020 w porcie w Bejrucie. Eksplodowała składowana w magazynie portowym saletra amonowa skonfiskowana z zatrzymanego w porcie statku w 2014 roku. W wyniku eksplozji zniszczony został port i wiele budynków w mieście. Zginęło 218 osób, a ponad 7,5 tys. odniosło obrażenia. Co najmniej 250–300 tys. ludzi w wyniku eksplozji straciło swoje domy. Niecały tydzień po wybuchu do dymisji podał się premier Libanu Hassan Dijab wraz ze swym rządem, oświadczając przy tym, że powodem zaniedbań prowadzących do katastrofy była potężna korupcja.",
+   "link": "https://pl.wikipedia.org/wiki/Eksplozja_w_Bejrucie_(2020)",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "08-26",
+   "rok": 1992,
+   "tytul": "Kuźnia Raciborska",
+   "tekst": "Największy pożar lasu w Polsce i Europie Środkowej po II wojnie: 26-30.08.1992, 9062 ha. Zginęło dwóch strażaków.",
+   "wiecej": "Pożar lasu w nadleśnictwie Rudy Raciborskie – największy pożar mający miejsce w Polsce oraz Europie Środkowej po II wojnie światowej. Pożar który dotknął las w rejonie Kuźni Raciborskiej, Kędzierzyna-Koźla, Rud Raciborskich i Rudzińca trwał od 26 do 30 sierpnia 1992, trawiąc 9062 ha.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_lasu_w_nadle%C5%9Bnictwie_Rudy_Raciborskie",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "09-11",
+   "rok": 2001,
+   "tytul": "World Trade Center",
+   "tekst": "Zginęło 343 strażaków FDNY. Do dziś podstawa szkoleń o łączności i dowodzeniu w dużych zdarzeniach.",
+   "wiecej": "Zamachy z 11 września 2001 roku, często potocznie określane jako 11 września, a po angielsku jako 9/11 – seria czterech skoordynowanych ataków terrorystycznych, przeprowadzonych przez paramilitarną islamską organizację terrorystyczną Al-Ka’ida przeciwko USA rano we wtorek 11 września 2001 roku na terytorium Stanów Zjednoczonych za pomocą uprowadzonych samolotów pasażerskich. Sprawcami byli przedstawiciele organizacji Al-Ka’ida, którzy po opanowaniu samolotów skierowali je na obiekty dwóch wież World Trade Center oraz budynku Pentagonu. W każdej z grup napastników w każdym z samolotów był jeden, który był przeszkolony w pilotowaniu maszyn powietrznych. Celem zamachowców było skierowanie samolotów na budynki będące symbolem Stanów Zjednoczonych i ich potęgi oraz spowodowanie przez to masowych strat w ludziach i całkowitej lub częściowej destrukcji budynków. Dwie z uprowadzonych maszyn uderzyły w bliźniacze wieże World Trade Center, a trzecia uderzyła w zachodnie skrzydło Pentagonu. W przypadku czwartego samolotu atak nie powiódł się z uwagi na obronne zachowanie pasażerów na jego pokładzie, wskutek czego maszyna rozbiła się na polu w Pensylwanii.",
+   "link": "https://pl.wikipedia.org/wiki/Zamachy_z_11_wrze%C5%9Bnia_2001_roku",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "11-18",
+   "rok": 1987,
+   "tytul": "King's Cross, Londyn",
+   "tekst": "31 ofiar. Mały pożar pod drewnianymi schodami ruchomymi nagle wystrzelił do hali - tak odkryto efekt rynny.",
+   "wiecej": "Pożar na stacji metra King’s Cross w Londynie – stacja londyńskiego metra King’s Cross została zniszczona przez pożar, który wybuchł 18 listopada 1987.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_na_stacji_metra_King%E2%80%99s_Cross_w_Londynie",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "11-24",
+   "rok": 1994,
+   "tytul": "Hala Stoczni Gdańskiej",
+   "tekst": "7 ofiar pożaru w czasie koncertu. Lekcja o imprezach masowych w halach.",
+   "wiecej": "Pożar w hali Stoczni Gdańskiej – pożar, który miał miejsce 24 listopada 1994 roku podczas koncertu w Hali Stoczni Gdańskiej w Gdańsku. W wyniku odniesionych obrażeń śmierć poniosło 7 osób.",
+   "link": "https://pl.wikipedia.org/wiki/Po%C5%BCar_w_hali_Stoczni_Gda%C5%84skiej",
+   "link_nazwa": "Wikipedia (pl)"
+  },
+  {
+   "d": "12-03",
+   "rok": 1999,
+   "tytul": "Worcester Cold Storage (USA)",
+   "tekst": "Zginęło 6 strażaków, którzy zgubili się w zadymionym magazynie bez okien. Podstawa szkoleń o orientacji i linach.",
+   "wiecej": "3 grudnia 1999 r. zapalił się 93-letni opuszczony budynek chłodni w Worcester (Massachusetts). Pożar przypadkowo wywołali bezdomni, przewracając świeczkę, i odeszli bez zgłoszenia. Sześciopiętrowy budynek nie miał okien powyżej parteru ani żadnej sygnalizacji czy gaszenia. Ogień rozwijał się niezauważony przez 30-90 minut.",
+   "link": "https://en.wikipedia.org/wiki/Worcester_Cold_Storage_and_Warehouse_Co._fire",
+   "link_nazwa": "Wikipedia (ang.)"
+  },
+  {
+   "d": "12-30",
+   "rok": 2004,
+   "tytul": "Klub República Cromañón (Argentyna)",
+   "tekst": "194 ofiary. Raca zapaliła sufit, część wyjść była zamknięta.",
+   "wiecej": "30 grudnia 2004 r. w zatłoczonym klubie República Cromañón w Buenos Aires zginęły 194 osoby, a co najmniej 1492 zostały ranne. Bezpośrednia przyczyna: pirotechnika w środku klubu zapaliła sufit.",
+   "link": "https://en.wikipedia.org/wiki/Croma%C3%B1%C3%B3n_nightclub_fire",
+   "link_nazwa": "Wikipedia (ang.)"
+  }
+ ],
+ "sezon": {
+  "zima": {
+   "nazwa": "Zima - sezon czadu i choinek",
+   "strazak": [
+    "Wezwania „źle się czuje” w łazience lub przy piecu - detektor wielogazowy od progu.",
+    "Pożary sadzy w kominach - częste przy pierwszych mrozach.",
+    "Śnieg na płaskich dachach hal - pamiętaj o Katowicach 2006."
+   ],
+   "cywil": [
+    "Czujka czadu i niezaklejona kratka wentylacyjna.",
+    "Lampki choinkowe sprawne, choinka z dala od grzejnika.",
+    "Fajerwerki tylko na zewnątrz, z dala od ludzi i budynków."
+   ],
+   "tipy": [
+    "Czujkę czadu montuj 1-3 m od źródła spalania, na wysokości wzroku; czujkę dymu na suficie (korytarz, sypialnie, każda kondygnacja). Test co miesiąc - zalecenia KG PSP.",
+    "Choinka min. 1 m od grzejnika i kominka, lampki gaś na noc i przy wyjściu z domu.",
+    "Fajerwerki kupuj tylko w sklepie z wydzielonym stanowiskiem - bez samoobsługi (§ 9 rozp. 2010)."
+   ],
+   "wnioski": [
+    "Zatrucia czadem zdarzają się głównie w sezonie grzewczym - zwłaszcza gdy szczelne okna i zaklejone kratki ograniczają dopływ powietrza.",
+    "Częstą przyczyną pożarów zimą są urządzenia grzewcze i przeciążone instalacje elektryczne."
+   ],
+   "zrodla": [
+    [
+     "KG PSP - sezon grzewczy 2025/2026",
+     "https://www.gov.pl/web/kgpsp/sezon-grzewczy-20252026-sprawdz-jak-chronic-siebie-i-swoich-bliskich"
+    ]
+   ]
+  },
+  "wiosna": {
+   "nazwa": "Wiosna - sezon wypalania traw",
+   "strazak": [
+    "Pożary traw przy wietrze potrafią w minuty odciąć drogę - pamiętaj o Wainwright i Knowles.",
+    "Samochód ustaw przodem do wyjazdu, zaplanuj drugą drogę odwrotu."
+   ],
+   "cywil": [
+    "Wypalanie traw jest zakazane i niebezpieczne - ogień idzie na zabudowania.",
+    "Ogniska tylko w wyznaczonych miejscach, gaś do końca."
+   ],
+   "tipy": [
+    "Na pożar traw jedź z planem odwrotu - wiatr potrafi odwrócić ogień w minuty.",
+    "Przed sezonem sprawdź tłumice, plecaki gaśnicze i radiotelefony."
+   ],
+   "wnioski": [
+    "Wypalanie traw to nie „oczyszczanie pola” - zabija zwierzęta i często przechodzi na zabudowania i las."
+   ]
+  },
+  "lato": {
+   "nazwa": "Lato - żniwa, burze i upały",
+   "strazak": [
+    "Pożary zbóż i maszyn rolniczych - ogień idzie z wiatrem bardzo szybko.",
+    "Burze: zalania, powalone drzewa, pioruny w stodoły."
+   ],
+   "cywil": [
+    "Kombajn i prasa - gaśnica w kabinie, czyszczenie z kurzu i plew.",
+    "Grill nie na balkonie w bloku, nie zostawiaj żaru bez nadzoru."
+   ],
+   "tipy": [
+    "Maszyny rolnicze: gaśnica w kabinie i czyszczenie z kurzu i plew po każdym dniu.",
+    "Po burzy sprawdź strych i dach - piorun potrafi zapalić konstrukcję z opóźnieniem."
+   ],
+   "wnioski": [
+    "Pożary zbóż idą z wiatrem bardzo szybko - pas zaoranej ziemi wokół pola ogranicza ich rozprzestrzenianie."
+   ]
+  },
+  "jesien": {
+   "nazwa": "Jesień - start sezonu grzewczego",
+   "strazak": [
+    "Pierwsze zatrucia czadem po uruchomieniu pieców.",
+    "Pustostany - ludzie szukają w nich ciepła, ryzyko pożarów i zawaleń."
+   ],
+   "cywil": [
+    "Przegląd pieca i komina przed sezonem.",
+    "Nie susz prania na piecu i grzejniku elektrycznym."
+   ],
+   "tipy": [
+    "Przed sezonem: protokół kominiarza - paliwo stałe co 3 miesiące, gaz i olej co pół roku (§ 34 rozp. 2010).",
+    "Kratki wentylacyjne nigdy nie zaklejone - to droga ucieczki dla czadu.",
+    "Opał trzymaj z dala od pieca - min. 0,5 m od gorących powierzchni (§ 4 ust. 1 pkt 8 rozp. 2010)."
+   ],
+   "wnioski": [
+    "Pierwsze uruchomienie pieca po lecie to moment podwyższonego ryzyka pożaru sadzy i zatrucia czadem."
+   ],
+   "zrodla": [
+    [
+     "KG PSP - sezon grzewczy 2025/2026",
+     "https://www.gov.pl/web/kgpsp/sezon-grzewczy-20252026-sprawdz-jak-chronic-siebie-i-swoich-bliskich"
+    ]
+   ]
+  }
+ },
+ "tipy": [
+  {
+   "tytul": "Test drzwi przeciwpożarowych w 5 sekund",
+   "tresc": "Otwórz skrzydło na całą szerokość i puść. Ma się samo domknąć do zatrzasku. Jeśli staje w połowie albo trzaska - samozamykacz do regulacji. Klin pod drzwiami to najczęstsza usterka.",
+   "przepis": "§ 4 ust. 1 pkt 15 rozp. 2010",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Zrób zdjęcie tabliczki na drzwiach EI",
+   "tresc": "Klasa odporności ogniowej i producent są na tabliczce w ościeżnicy albo w krawędzi skrzydła. Brak tabliczki = pytanie o dokumenty drzwi.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Szerokość drogi mierz po meblach",
+   "tresc": "Korytarz ma 1,4 m między ścianami, ale po ustawieniu szafek, ksera i automatów często zostaje 1 m. Liczy się szerokość wolna.",
+   "przepis": "§ 242 WT, § 4 ust. 1 pkt 16 rozp. 2010",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Podnieś płytę sufitu podwieszanego",
+   "tresc": "Nad sufitem zobaczysz, czy przejścia kabli i rur przez ściany ogniowe są uszczelnione i czy ktoś nie urządził tam „magazynu”.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Gaśnica w 3 spojrzenia",
+   "tresc": "Plomba cała, wskazówka manometru w zielonym polu, data przeglądu nie starsza niż rok.",
+   "przepis": "§ 3 ust. 3 rozp. 2010",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Lakiernia, chemia, alkohol - sprawdź, czy piana jest AR",
+   "tresc": "Ciecze polarne (alkohole, aceton, wiele rozpuszczalników) niszczą zwykłą pianę. Na gaśnicy pianowej lub środku szukaj oznaczenia AR, np. AFFF-AR. Bez niego gaśnica może tam nie zadziałać.",
+   "przepis": "§ 32 ust. 1 i 2 rozp. 2010 (gaśnice dobrane do rodzaju pożaru)",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Hydrant wewnętrzny - otwórz szafkę",
+   "tresc": "Wąż równo zwinięty, prądownica podłączona, zawór na wysokości ok. 1,35 m. Przed szafką wolne miejsce na rozwinięcie węża.",
+   "przepis": "§ 21 rozp. 2010",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Poproś, żeby pokazali palcem",
+   "tresc": "Kurek główny gazu, przeciwpożarowy wyłącznik prądu, centralę alarmu. Jeśli właściciel albo recepcja nie wiedzą, gdzie są - instrukcja działa tylko na papierze.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Zapytaj recepcję: co robisz po alarmie?",
+   "tresc": "Dobra odpowiedź: kto sprawdza, ile ma czasu, kogo powiadamia. Cisza albo „dzwonię do szefa” to temat do szkolenia.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Zdjęcia z obchodu z miarką",
+   "tresc": "Zawsze z czymś do skali - miarka, kartka A4. Zdjęcie zwężonego korytarza bez skali nic nie udowodni.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
+   "tytul": "Przed wejściem zapamiętaj stronę budynku",
+   "tresc": "Strona wejścia, piętro, najbliższe okno. W MAYDAY to pierwsze, o co zapyta dowódca - w Buffalo strażak nie wiedział, gdzie jest.",
+   "przepis": "",
+   "dla": "strażak"
+  },
+  {
+   "tytul": "MAYDAY z położeniem",
+   "tresc": "Ćwicz meldunek: piętro, strona budynku, przy czym jestem. Przed wejściem zapamiętaj stronę wejścia.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Buffalo, 16.11.2026"
+  },
+  {
+   "tytul": "Czad - mierz od wejścia",
+   "tresc": "Przy wezwaniu do osoby nieprzytomnej w łazience - detektor wielogazowy od progu, zanim zdejmiecie maski.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Bielsko-Biała, 18.11.2026"
+  },
+  {
+   "tytul": "Nad sufitem jest drugie pomieszczenie",
+   "tresc": "Przy dogaszaniu sprawdzaj termowizją przestrzeń nad sufitem podwieszanym i w ścianach.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Wedel, 19.11.2026"
+  },
+  {
+   "tytul": "Odwrót dwiema drogami",
+   "tresc": "Plan odwrotu oparty na jednym środku (śmigłowiec, jedna klatka, jedna brama) to brak planu.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Raport Knowles Fire"
+  },
+  {
+   "tytul": "Radiotelefon: mniej kanałów w skanowaniu",
+   "tresc": "Raport z Knowles Fire zaleca najwyżej 16 kanałów - przy większej liczbie można przegapić wywołanie.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Raport Knowles Fire"
+  }
+ ],
+ "baterie": [
+  {
+   "tytul": "Gaszenie baterii ciężarówki „od środka” (Holandia)",
+   "tresc": "System UHD przecina obudowę i gasi samą baterię - pierwsze takie badanie na świecie według autorów. Działa słabiej, gdy bateria jest pod kabiną.",
+   "etykieta": "BADANIE",
+   "link": "#/wiadomosci/w/2026-11-18-nipv-uhd",
+   "zrodla": [
+    [
+     "NIPV",
+     "https://nipv.nl/nieuws/uhd-blussysteem-geeft-brandweer-aanvullend-handelingsperspectief-bij-branden-met-elektrische-trucks/"
+    ]
+   ]
+  },
+  {
+   "tytul": "Nowa grupa pożarów L - baterie litowo-jonowe",
+   "tresc": "ISO 3941:2026 dodała grupę L. W Polsce czekamy na nową PN-EN 2. Gaśnic „klasy L” według EN 3 jeszcze nie ma - przy gaśnicach „do baterii” pytaj o wyniki badań (np. NTA 8133).",
+   "etykieta": "NORMY",
+   "zrodla": [
+    [
+     "ANPI",
+     "https://www.anpi.be/en/news/new-fire-class-l"
+    ]
+   ]
+  },
+  {
+   "tytul": "3 lata testów spalania aut elektrycznych",
+   "tresc": "UL FSRI wydał po testach w skali rzeczywistej kartę decyzji taktycznych dla strażaków - gotowy materiał na szkolenie.",
+   "etykieta": "BADANIE",
+   "zrodla": [
+    [
+     "Firehouse",
+     "https://www.firehouse.com/operations-training/news/55396753/new-fsri-study-details-what-firefighters-need-to-know-about-ev-fires"
+    ]
+   ]
+  },
+  {
+   "tytul": "Dla strażaka: bateria może zapalić się ponownie",
+   "tresc": "Po pożarze lub wypadku auta elektrycznego bateria potrafi się ponownie zapalić po godzinach. Pojazd odstaw z dala od budynków i innych aut, poinformuj holujących.",
+   "etykieta": "Z PRAKTYKI",
+   "zrodla": []
+  },
+  {
+   "tytul": "Dla każdego: hulajnoga i rower elektryczny",
+   "tresc": "Ładuj oryginalną ładowarką, nie na noc i nie na korytarzu albo w przedpokoju - pożar baterii odcina jedyne wyjście. Uszkodzonej, spuchniętej baterii nie ładuj wcale.",
+   "etykieta": "PORADA",
+   "zrodla": []
+  },
+  {
+   "tytul": "Dla inspektora: ładowanie w garażu i w firmie",
+   "tresc": "Auto elektryczne ładowane z przedłużacza to sygnał ostrzegawczy. Stacje ładowania mają własne rozporządzenie (2019) - sprawdź je w zakładce Przepisy.",
+   "etykieta": "PORADA",
+   "zrodla": [
+    [
+     "Przepisy w aplikacji",
+     "#/przepisy"
+    ]
+   ]
+  },
+  {
+   "tytul": "Wczesne wykrywanie awarii ogniw",
+   "tresc": "Czujniki wychwytujące gazy z uszkodzonego ogniwa, zanim dojdzie do pożaru - opis producenta z odwołaniem do raportu EPRI i PNNL.",
+   "etykieta": "PRODUCENT",
+   "zrodla": [
+    [
+     "Fire & Safety Journal Americas",
+     "https://fireandsafetyjournalamericas.com/getting-ahead-of-battery-failure/"
+    ]
+   ]
+  }
+ ],
+ "liczby": [
+  {
+   "tytul": "Pierwsze 7 tygodni sezonu grzewczego 2025/2026",
+   "okres": "1.10-21.11.2025",
+   "liczby": [
+    [
+     "3545",
+     "pożarów w budynkach mieszkalnych"
+    ],
+    [
+     "52",
+     "ofiary śmiertelne tych pożarów"
+    ],
+    [
+     "279",
+     "rannych"
+    ],
+    [
+     "546",
+     "interwencji z czadem"
+    ],
+    [
+     "13",
+     "ofiar śmiertelnych czadu"
+    ],
+    [
+     "201",
+     "osób podtrutych czadem"
+    ],
+    [
+     "ponad 1000",
+     "pożarów sadzy w kominach"
+    ]
+   ],
+   "komentarz": "Te liczby dobrze działają na szkoleniu: w niecałe dwa miesiące kilkanaście osób zmarło od gazu, którego nie widać i nie czuć. Za sezon 2026/2027 KG PSP nie opublikowała jeszcze zestawienia - dopiszemy je, gdy się pojawi.",
+   "zrodla": [
+    [
+     "KG PSP - sezon grzewczy 2025/2026",
+     "https://www.gov.pl/web/kgpsp/sezon-grzewczy-20252026-sprawdz-jak-chronic-siebie-i-swoich-bliskich"
+    ]
+   ]
+  },
+  {
+   "tytul": "Czad w rejonie KM PSP Bielsko-Biała w 2026 r.",
+   "okres": "do 18.11.2026",
+   "liczby": [
+    [
+     "4",
+     "ofiary śmiertelne zatrucia czadem w rejonie jednej komendy"
+    ]
+   ],
+   "komentarz": "Lokalna liczba z komunikatu strażaków po zdarzeniu z 18.11.2026.",
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/akcje/martwa-kobieta-w-lazience-strazacy-apeluja/"
+    ]
+   ]
+  }
+ ],
+ "wyroki": [
+  {
+   "sygn": "II OSK 620/24",
+   "sad": "NSA",
+   "data": "2025-04-14",
+   "tytul": "Stary blok też musi mieć drogę pożarową",
+   "teza": "Stosowanie przepisów przeciwpożarowych do budynków powstałych przed ich wejściem w życie jest zgodne z prawem. Nakaz doprowadzenia drogi pożarowej nie narusza przepisów, jeśli da się go wykonać po dodatkowych czynnościach administracyjnych.",
+   "poludzku": "Spółdzielnia mieszkaniowa dostała od PSP nakaz doprowadzenia drogi pożarowej do istniejącego budynku i odwołała się aż do NSA. Przegrała. Argument „budynek jest stary, wtedy takich przepisów nie było” nie wystarczył.",
+   "dla_inspektora": "Gdy właściciel mówi „u nas tego nie trzeba, bo budynek jest stary” - to nie zawsze prawda. Przy drogach pożarowych sądy przyznają rację PSP.",
+   "zrodla": [
+    [
+     "INFOR (streszczenie i teza)",
+     "https://inforfk.pl/dok/tresc,FOB0000000000006965909,Wyrok-NSA-z-dnia-14-kwietnia-2025-r-sygn-II-OSK-620-24.html"
+    ],
+    [
+     "Baza orzeczeń NSA",
+     "https://orzeczenia.nsa.gov.pl/"
+    ]
+   ],
+   "uwaga": "Pełne uzasadnienie - w bazie orzeczeń NSA (wyszukaj po sygnaturze)."
+  }
+ ],
+ "materialy": [
+  {
+   "tytul": "Zasady stosowania czujek dymu i czujek tlenku węgla",
+   "opis": "Oficjalne omówienie przepisów o czujkach - dobre do rozmowy z klientem.",
+   "wydawca": "Państwowa Straż Pożarna (gov.pl)",
+   "link": "https://www.gov.pl/attachment/7f4e123c-c910-46ff-af6c-9f6e266fb914"
+  },
+  {
+   "tytul": "Kampania „Czujka na straży Twojego bezpieczeństwa” - plakaty i ulotki",
+   "opis": "Grafiki „Czad oszukuje zmysły” i „Te objawy mogą świadczyć o obecności tlenku węgla” do pobrania w dużej rozdzielczości (A4).",
+   "wydawca": "KM PSP Ostrołęka (gov.pl)",
+   "link": "https://www.gov.pl/web/kmpsp-ostroleka/czujka-na-strazy-twojego-bezpieczenstwa2"
+  },
+  {
+   "tytul": "Ulotka „NIE dla czadu!”",
+   "opis": "Ulotka kampanii społeczno-edukacyjnej, przygotowana przez Wydział Informacji i Promocji KG PSP.",
+   "wydawca": "KG PSP (plik na stronie Policji w Rybniku)",
+   "link": "https://rybnik.policja.gov.pl/download/57/587782/ulotkakg.pdf"
+  },
+  {
+   "tytul": "Sezon grzewczy - jak chronić siebie i bliskich",
+   "opis": "Zalecenia KG PSP: gdzie montować czujki, co sprawdzić, objawy zatrucia, co robić przy alarmie.",
+   "wydawca": "KG PSP (gov.pl)",
+   "link": "https://www.gov.pl/web/kgpsp/sezon-grzewczy-20252026-sprawdz-jak-chronic-siebie-i-swoich-bliskich"
+  }
+ ],
+ "akcja_miesiaca": {
+  "id": "2026-11-18-bielsko-czad",
+  "miesiac": "Listopad 2026",
+  "analiza": [
+   "To zdarzenie dobrze pokazuje mechanizm, który powtarza się co sezon. Wieczorem lub w nocy ktoś korzysta z łazienki ogrzewanej piecykiem, pomieszczenie jest małe, a powietrza dopływa za mało. Tlenek węgla nie ma zapachu, a pierwsze objawy - ból i zawroty głowy, senność, osłabienie - łatwo pomylić ze zmęczeniem.",
+   "Ważny szczegół z komunikatu: 100 ppm zmierzono już po przewietrzeniu. To znaczy, że przed wietrzeniem stężenie było wyższe, a samo otwarcie okien nie rozwiązuje problemu, jeśli urządzenie dalej działa źle.",
+   "Skala w kraju: według KG PSP w pierwszych 7 tygodniach poprzedniego sezonu grzewczego było 546 interwencji z czadem, 201 osób podtrutych i 13 ofiar śmiertelnych."
+  ],
+  "wnioski": [
+   "Czujka czadu: 1-3 m od źródła spalania, na wysokości wzroku, test co miesiąc (zalecenie KG PSP).",
+   "Przy wezwaniu do osoby nieprzytomnej w łazience - pomiar od progu, zanim zespół zdejmie ochronę dróg oddechowych.",
+   "Na szkoleniu i u klienta: kratka wentylacyjna nigdy zaklejona, przegląd pieca i komina co roku."
+  ],
+  "zrodla": [
+   [
+    "Strazacki.pl",
+    "https://strazacki.pl/akcje/martwa-kobieta-w-lazience-strazacy-apeluja/"
+   ],
+   [
+    "KG PSP - sezon grzewczy 2025/2026",
+    "https://www.gov.pl/web/kgpsp/sezon-grzewczy-20252026-sprawdz-jak-chronic-siebie-i-swoich-bliskich"
+   ]
+  ]
+ },
+ "dla_kazdego": [
+  {
+   "tytul": "Czujka czadu i przegląd pieca",
+   "tekst": "Czujka kosztuje kilkadziesiąt złotych. Piecyk gazowy i kocioł - przegląd co roku, kratka wentylacyjna nigdy zaklejona."
+  },
+  {
+   "tytul": "Zapach gazu",
+   "tekst": "Nie włączaj i nie wyłączaj światła, nie dzwoń w mieszkaniu. Zakręć kurek, otwórz okna, wyjdź i dzwoń z zewnątrz (112 albo pogotowie gazowe)."
+  },
+  {
+   "tytul": "Hulajnoga i rower elektryczny",
+   "tekst": "Nie ładuj w przedpokoju ani na korytarzu - pożar baterii odetnie jedyne wyjście. Nie ładuj w nocy bez nadzoru."
+  },
+  {
+   "tytul": "Nie parkuj przed bramą remizy",
+   "tekst": "Nawet na „pięć minut”. Alarm przychodzi bez uprzedzenia."
+  },
+  {
+   "tytul": "Butla gazowa na jarmarku i w domku",
+   "tekst": "W domku tylko butla podłączona do urządzenia, zapas na zewnątrz w przewiewnym miejscu, z dala od wyjścia."
+  },
+  {
+   "tytul": "Do klienta: Czujki dla wynajmujących",
+   "tekst": "Dzień dobry, przypominam: od 30.06.2026 każdy pokój wynajmowany gościom musi mieć czujkę dymu, a przy piecu lub kominku - czujkę czadu. Chętnie pomogę sprawdzić obiekt."
+  },
+  {
+   "tytul": "Do klienta: Przegląd gaśnic",
+   "tekst": "Dzień dobry, gaśnice i hydranty trzeba przeglądać co najmniej raz w roku. Proszę sprawdzić datę na naklejce - jeśli minął rok, warto umówić przegląd."
+  },
+  {
+   "tytul": "Do klienta: Kominy przed zimą",
+   "tekst": "Przed sezonem grzewczym: przewody od pieca na drewno czy węgiel czyści się co 3 miesiące, od gazu i oleju - co pół roku. Czujka czadu kosztuje kilkadziesiąt złotych."
+  },
+  {
+   "tytul": "Do klienta: Hulajnogi i rowery elektryczne",
+   "tekst": "Proszę nie ładować hulajnóg i rowerów elektrycznych na korytarzu ani w przedpokoju - pożar baterii odcina jedyne wyjście. Najlepiej ładować pod okiem, nie na noc."
+  },
+  {
+   "tytul": "Do klienta: Święta i jarmarki",
+   "tekst": "Przed świętami: lampki choinkowe tylko sprawne, świece z dala od firan, a na stoiskach jarmarcznych tylko butla podłączona do urządzenia - zapas na zewnątrz."
+  }
+ ],
+ "przeglad_pigulka": [
+  {
+   "numer": "10/2026",
+   "data": "2026-11-02",
+   "link": "https://www.ppoz.pl/aktualne-wydanie",
+   "artykuly": [
+    {
+     "tytul": "Efekt czujki w operacyjnym zwierciadle",
+     "autor": "kpt. Maciej Piątek, JRG PSP Kraśnik",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Efekt-czujki-w-operacyjnym-zwierciadle/idn:3485",
+     "streszczenie": "Autor sprawdził, co zmieniły czujki w powiecie kraśnickim, gdzie od października 2024 r. zamontowano ich ponad 1200. Wyjazdów do czadu w sezonie grzewczym jest o ponad 285% więcej niż trzy sezony wcześniej, ale od 2023 r. nie było tam ani jednej ofiary śmiertelnej. Alarmy z czujek dymu rzadko są fałszywe. Latem przybyło zdarzeń z CO, głównie przez „cofkę” spalin.",
+     "wniosek": "Czujki ratują życie, ale zwiększają liczbę wyjazdów - edukacja mieszkańców (sygnały techniczne czujki, wietrzenie) może ograniczyć zbędne interwencje."
+    },
+    {
+     "tytul": "Termowizja w PSP",
+     "autor": "mł. kpt. Ksawery Łokietek, JRG 3 KM PSP Warszawa",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Termowizja-w-PSP/idn:3484",
+     "streszczenie": "Historia kamer termowizyjnych w PSP: od pierwszej kamery w 1994 r. do standardowego wyposażenia JRG. 9 lutego 2026 r. zatwierdzono program szkolenia doskonalącego „TKT” - 3 dni, 9 godzin teorii i 17 godzin praktyki w trenażerach. Od października 2025 r. obowiązuje standard taktycznej kamery, a w latach 2026-2028 instruktorzy mają objąć szkoleniem wszystkie województwa.",
+     "wniosek": "Kamera nie zastąpi wiedzy - trzeba umieć działać także bez niej, a szkolenie z pożarów wewnętrznych (GPW) jest warunkiem udziału w TKT."
+    },
+    {
+     "tytul": "Raj w ogniu albo piekło w raju",
+     "autor": "st. kpt. Renata Golly, KG PSP",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Raj-w-ogniu-albo-pieklo-w-raju/idn:3483",
+     "streszczenie": "19 czerwca 2026 r. spłonął kompleks hotelowy w Bayahíbe (Dominikana). Ogień szedł po palnych strzechach z roślin i w wietrze ok. 6 m/s objął ponad 100 pawilonów na ok. 7 ha. Ewakuowano ok. 1690 gości, jedna osoba zmarła. W akcji: 475 osób, 22 wozy, 8 cystern, 2 śmigłowce z koszami i 10 karetek pod jednym dowództwem.",
+     "wniosek": "Palne pokrycia dachów i małe odległości między budynkami to przepis na pożar powierzchniowy - liczy się zaopatrzenie wodne, plan ewakuacji wielu osób i jedno dowództwo."
+    }
+   ]
+  }
+ ]
+}
